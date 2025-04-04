@@ -66,11 +66,6 @@ This project aims to answer:
 - Integrate IMDb ratings for more insights.
 - Perform sentiment analysis on movie descriptions.
 
-## 📢 Contributing
-Feel free to fork this repository and contribute by improving data visualizations or adding new analyses.
-
-## 📬 Contact
-For any questions, reach out via [LinkedIn](https://www.linkedin.com/in/yourprofile) or email at your.email@example.com.
 
 ---
 🛠 **By:** Your Name | 🚀 **GitHub:** [YourUsername](https://github.com/YourUsername)
