@@ -68,5 +68,5 @@ This project aims to answer:
 
 
 ---
-🛠 **By:** Your Name | 🚀 **GitHub:** [YourUsername](https://github.com/YourUsername)
+🛠 **By:** Qazi Ali Hassan | 🚀 **GitHub:** [Qazi-Hassan](https://github.com/Qazi-Hassan)
 
