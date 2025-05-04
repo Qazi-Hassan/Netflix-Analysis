@@ -1,5 +1,8 @@
 # Netflix Movies & TV Shows Analysis
 
+![Netflix Logo](images.png)
+
+
 ## 📌 Project Overview
 This project analyzes the Netflix Movies & TV Shows dataset to extract valuable insights about content distribution, trends over time, and popular genres. The goal is to help Netflix (or streaming platforms in general) make data-driven decisions about content production and acquisition.
 
